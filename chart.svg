@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" width="760" height="430" role="img" aria-label="Input tokens per research run: progressive widening averaged 697,000 tokens across four runs; fetching everything first averaged 21,000 across five runs.">
+  <rect width="760" height="430" fill="#FFFFFF"/>
+  <text x="82" y="28" font-size="17" font-weight="600" fill="#111827" font-family="system-ui,-apple-system,Segoe UI,sans-serif">Input tokens per research run</text>
+  <text x="82" y="46" font-size="13" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">Same class of diagnostic task. Lower is better.</text>
+<line x1="92" y1="330.0" x2="720" y2="330.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="82" y="334.0" text-anchor="end" font-size="12" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">0</text>
+<line x1="92" y1="261.5" x2="720" y2="261.5" stroke="#E5E7EB" stroke-width="1"/>
+<text x="82" y="265.5" text-anchor="end" font-size="12" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">300K</text>
+<line x1="92" y1="193.0" x2="720" y2="193.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="82" y="197.0" text-anchor="end" font-size="12" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">600K</text>
+<line x1="92" y1="124.5" x2="720" y2="124.5" stroke="#E5E7EB" stroke-width="1"/>
+<text x="82" y="128.5" text-anchor="end" font-size="12" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">900K</text>
+<line x1="92" y1="56.0" x2="720" y2="56.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="82" y="60.0" text-anchor="end" font-size="12" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">1200K</text>
+  <line x1="92" y1="330" x2="720" y2="330" stroke="#9CA3AF" stroke-width="1.5"/>
+<rect x="104" y="151.4" width="46" height="178.6" fill="#C2410C" rx="2"/>
+<text x="127" y="144.4" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">782K</text>
+<rect x="162" y="305.0" width="46" height="25.0" fill="#C2410C" rx="2"/>
+<text x="185" y="298.0" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">109K</text>
+<rect x="220" y="149.7" width="46" height="180.3" fill="#C2410C" rx="2"/>
+<text x="243" y="142.7" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">790K</text>
+<rect x="278" y="77.1" width="46" height="252.9" fill="#C2410C" rx="2"/>
+<text x="301" y="70.1" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">1108K</text>
+<rect x="392" y="325.6" width="46" height="4.4" fill="#0F766E" rx="2"/>
+<text x="415" y="318.6" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">19K</text>
+<rect x="450" y="325.4" width="46" height="4.6" fill="#0F766E" rx="2"/>
+<text x="473" y="318.4" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">20K</text>
+<rect x="508" y="323.7" width="46" height="6.3" fill="#0F766E" rx="2"/>
+<text x="531" y="316.7" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">28K</text>
+<rect x="566" y="325.3" width="46" height="4.7" fill="#0F766E" rx="2"/>
+<text x="589" y="318.3" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">21K</text>
+<rect x="624" y="325.6" width="46" height="4.4" fill="#0F766E" rx="2"/>
+<text x="647" y="318.6" text-anchor="middle" font-size="12" fill="#374151" font-family="system-ui,-apple-system,Segoe UI,sans-serif">19K</text>
+  <line x1="356" y1="56" x2="356" y2="330" stroke="#D1D5DB" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="214" y="352" text-anchor="middle" font-size="13" font-weight="600" fill="#C2410C" font-family="system-ui,-apple-system,Segoe UI,sans-serif">Progressive widening</text>
+  <text x="214" y="370" text-anchor="middle" font-size="12" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">7 to 42 turns &#183; 0.8 to 3.8 min</text>
+  <text x="531" y="352" text-anchor="middle" font-size="13" font-weight="600" fill="#0F766E" font-family="system-ui,-apple-system,Segoe UI,sans-serif">Fetch everything first</text>
+  <text x="531" y="370" text-anchor="middle" font-size="12" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">0 extra turns &#183; 0.4 min, every run</text>
+  <text x="82" y="416" font-size="12" fill="#6B7280" font-family="system-ui,-apple-system,Segoe UI,sans-serif">Mean 697K &#8594; 21K input tokens. Production runs, not a controlled benchmark; see the method note.</text>
+</svg>
